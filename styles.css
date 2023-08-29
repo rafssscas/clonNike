@@ -11,13 +11,13 @@
 .barraSuperior {
     background-color: rgb(200, 200, 200);
     font-family: 'Caveat', cursive;
-    font-size: 12px;
+    font-size: 10px;
     color:black;
 }
 .barraSuperior2{
     background-color: rgb(255, 255, 255);
     font-family: 'Caveat', cursive;
-    font-size: 24px;
+    font-size: 20px;
     color:black;
 }
 
@@ -84,7 +84,7 @@ display: block;
     top: 0;
     left: 0;
     min-width: 100%;
-    height: 14rem;
+    height: 10rem;
   }
   
   
@@ -145,3 +145,9 @@ display: block;
     }
   }
   
+ .row{
+  
+  padding: 3rem;
+}
+
+ 
